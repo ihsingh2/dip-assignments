@@ -166,7 +166,7 @@
     <tr>
         <td align="center"><img src="a2/images/forgeries_13_1.png" width="200"></td>
         <td align="center"><img src="a2/output/forgeries_13_1_skeleton.png" width="200"></td>
-        <td align="center"><img src="" width="200"></td>
+        <td align="center"></td>
     </tr>
     <tr>
         <td align="center">Forged Signature</td>
